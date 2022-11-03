@@ -6,3 +6,13 @@ body {
   width: 1000px;
   margin: 0 auto;
 }
+
+a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
